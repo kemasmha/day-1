@@ -64,3 +64,7 @@ var months = Math.floor(500 % 365 / 30)
 var days = Math.floor(500 % 365 % 30 )
 console.log(years + " year, " + + months + " months, "  + days + " days")
 
+let msg = "ngoding itu"
+let arr = msg.split(' ')
+
+console.log(arr)

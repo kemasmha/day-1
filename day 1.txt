@@ -1,0 +1,5 @@
+git
+clone menarik source dari cide dari online repo
+commit changes locally (menyimpan perubahan)
+push =  push trhadap comit (mengirim hasil comit)
+fetch = refresh dari local terhadap online (mengetahui 
